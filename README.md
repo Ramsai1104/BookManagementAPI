@@ -14,7 +14,7 @@ REST API request response can be tested using Swagger which is attached with thi
 
 ``` http://localhost:63272/swagger ```
 
-![BooksManagementAPI](./.github/versions.jpg)
+![BooksManagementAPI](./.BookManagementAPI/versions.jpg)
 
 ## GET all books
 
