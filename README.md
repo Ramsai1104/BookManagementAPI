@@ -20,7 +20,7 @@ REST API request response can be tested using Swagger which is attached with thi
 
 ``` http://localhost:63272/api/v1/books ```
 
-![BooksManagementAPI](./.github/getAllBooks.jpg)
+![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/versions.jpg.PNG)
 
 ## GET single book by book id
 
