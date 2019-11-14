@@ -14,31 +14,31 @@ REST API request response can be tested using Swagger which is attached with thi
 
 ``` http://localhost:63272/swagger ```
 
-![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/versions.jpg)
+![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/versions.jpg.PNG)
 
 ## GET all books
 
 ``` http://localhost:63272/api/v1/books ```
 
-![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/getAllBooks.png)
+![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/getAllBooks.PNG)
 
 ## GET single book by book id
 
 ``` http://localhost:63272/api/v1/books/bk104 ```
 
-![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/getSingle.jpg)
+![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/getSingle.PNG)
 
 ## GET books by Author
 
 ``` http://localhost:63272/api/books/Kalam ```
 
-![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/getBooksByAuthor.jpg)
+![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/getBooksByAuthor.PNG)
 
 ## GET books by Price Range
 
 ``` http://localhost:63272/api/books/100/500 ```
 
-![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/getBooksByPriceRange.jpg)
+![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/getBooksByPriceRange.PNG)
 
 ## [POST] Add New books
 
@@ -52,7 +52,7 @@ REST API request response can be tested using Swagger which is attached with thi
     }
 ```
 
-![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/addNewBook.jpg)
+![BooksManagementAPI](https://github.com/Ramsai1104/BookManagementAPI/blob/master/addNewBook.PNG)
 
 
 
