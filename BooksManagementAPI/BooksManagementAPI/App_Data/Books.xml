@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books_catalog>
+  <book id="201">
+    <book_name>Learning how to fly </book_name>
+    <author>A.P.J Abdul Kalam</author>
+    <publish_date>2016-10-01</publish_date>
+    <price>109.95</price>
+  </book>
+  <book id="202">
+    <book_name>Wings of fire</book_name>
+    <author>A.P.J Abdul Kalam</author>
+    <publish_date>2018-06-26</publish_date>
+    <price>182.25</price>
+  </book>
+  <book id="103">
+    <book_name>The Life Divine</book_name>
+    <author>Sri Aurobindo</author>
+    <publish_date>1942-11-30</publish_date>
+    <price>399.95</price>
+  </book>
+  <book id="104">
+    <book_name>The Upanishads</book_name>
+    <author>Sri Aurobindo</author>
+    <publish_date>2015-01-01</publish_date>
+    <price>1899.95</price>
+  </book>
+  <book id="105">
+    <book_name>XML Developer's Guide</book_name>
+    <author>Gambardella, Matthew</author>
+    <publish_date>2000-10-01</publish_date>
+    <price>44.95</price>
+  </book>
+  <book id="203">
+    <book_name>Test Book name</book_name>
+    <author>Test Author</author>
+    <publish_date>12-11-2019 00:00:00</publish_date>
+    <price>20</price>
+  </book>
+</books_catalog>
